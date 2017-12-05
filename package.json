@@ -1,0 +1,29 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangman-cli.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickTHayes/hangman-Cli-Prompt.git"
+  },
+  "keywords": [
+    "colorsnpm",
+    "promptnpm",
+    "js"
+  ],
+  "author": "pat hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickTHayes/hangman-Cli-Prompt/issues"
+  },
+  "homepage": "https://github.com/PatrickTHayes/hangman-Cli-Prompt#readme"
+}
